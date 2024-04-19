@@ -1,0 +1,3 @@
+from .chat_service import generate_chat_response
+
+from services import generate_chat_response

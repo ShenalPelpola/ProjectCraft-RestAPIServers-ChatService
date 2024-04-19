@@ -1,0 +1,8 @@
+openai
+flask
+redis
+langchain
+langchain_openai
+langchain_community
+langchain_core
+python-dotenv
